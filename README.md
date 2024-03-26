@@ -34,3 +34,7 @@ original.py ,line 14
 sys.path.append("/your working directory/gemma_pytorch/")
 
 
+**run the code**
+sbatch llm.sh
+
+it runs original.py
