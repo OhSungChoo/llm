@@ -3,8 +3,11 @@ required data are in augi1 server
 /local_datasets/llm/
 
 /local_datasets/llm/archive/
-config.json     
+
+config.json
+
 gemma-7b-it-quant.ckpt
+
 tokenizer.model
 
  $ cd /local_datsets/llm
