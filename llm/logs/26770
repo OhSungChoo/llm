@@ -1,0 +1,27 @@
+/data/ohsung/repos/llm
+/data/ohsung/anaconda3/envs/llm/bin/python
+augi1
+<p>Looks really helpful ... </p>
+<p>Might someone downloaded train images 180+ Gb. 
+Please, share if yes.</p>
+
+<p>We can have test images from <a href="/hengck23">@hengck23</a> by this link
+<a href="https://drive.google.com/open?id=16P7OizMu8i7PzRZhNkzk_I4HgwtGOrYM">https://drive.google.com/open?id=16P7OizMu8i7PzRZhNkzk_I4HgwtGOrYM</a>
+as posted in his topic
+<a href="https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/115855">https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/115855</a></p>
+
+<p>now we need the link for train images</p>
+<p>Nice Article, Arjit!
+Just a small point though, lowering the exploration decay rate like .001 would have been provided better results. Not sure why, but was observing inconsistent results when I've chosen higher decay rates.</p>
+<p>Nope it was actually taking lot of space. So had to remove it from GCP instance. </p>
+<p>But it's fun xd. I saw the .000 before finding out it's on &lt;1% subset. Literally mindblown.</p>
+0                     <p>Looks really helpful ... </p>
+1    <p>Might someone downloaded train images 180+ ...
+2    <p>Nice Article, Arjit!\nJust a small point th...
+3    <p>Nope it was actually taking lot of space. S...
+4    <p>But it's fun xd. I saw the .000 before find...
+Name: Message, dtype: object
+
+
+[['<p>Looks really helpful ... </p>' "Explain this to me like I'm five."
+  "Sure, here's the explanation:\n\nImagine you're baking a cake. You need to follow a recipe that tells you what to do step-by-step to make the cake perfect. Some steps might include mixing the ingredients, pouring the batter into the pan, and baking the cake in the oven. This is like a computer program that tells the computer what to do to complete a task. The instructions are broken down into small steps that the computer can follow one at a time. That"]]

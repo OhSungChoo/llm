@@ -1,0 +1,9 @@
+/data/ohsung/repos/llm
+/data/ohsung/anaconda3/envs/llm/bin/python
+augi1
+Traceback (most recent call last):
+  File "/data/ohsung/repos/llm/original.py", line 15, in <module>
+    from gemma.config import GemmaConfig, get_config_for_7b, get_config_for_2b
+  File "/data/ohsung/repos/llm/gemma/config.py", line 18, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'

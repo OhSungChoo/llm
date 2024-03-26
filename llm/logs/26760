@@ -1,0 +1,14 @@
+/data/ohsung/repos/llm
+/data/ohsung/anaconda3/envs/llm/bin/python
+augi1
+0                     <p>Looks really helpful ... </p>
+1    <p>Might someone downloaded train images 180+ ...
+2    <p>Nice Article, Arjit!\nJust a small point th...
+3    <p>Nope it was actually taking lot of space. S...
+4    <p>But it's fun xd. I saw the .000 before find...
+Name: Message, dtype: object
+[['<p>Looks really helpful ... </p>' 'Convert this into a sea shanty.'
+  "Sure, here's a shanty:\n\n(Verse 1)\nHey ho, me hearties, gather 'round,\nI'll tale a tale that'll make you proud.\nA sight to see, a sight to behold,\nA web of information that's been told.\n\n(Chorus)\nSo raise your mugs and sing along,\nWith a tune of help and strength,\nThis information's a gift to you,\nSo sing it loud"]
+ ['<p>Might someone downloaded train images 180+ Gb. \nPlease, share if yes.</p>\n\n<p>We can have test images from <a href="/hengck23">@hengck23</a> by this link\n<a href="https://drive.google.com/open?id=16P7OizMu8i7PzRZhNkzk_I4HgwtGOrYM">https://drive.google.com/open?id=16P7OizMu8i7PzRZhNkzk_I4HgwtGOrYM</a>\nas posted in his topic\n<a href="https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/115855">https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/115855</a></p>\n\n<p>now we need the link for train images</p>'
+  'Convert this into a sea shanty.'
+  "Sure, here's the converted text into a sea shanty:\n\n(Verse 1)\nA tale to tell of train images grand,\nA download feast upon the sand.\nIf you've got the files, come share the link,\nAnd join the fun, old sea shanty slick.\n\n(Chorus)\nOh, might someone downloaded train images 180+ Gb,\nPlease share if yes, let's sing along the way.\nWe'"]]

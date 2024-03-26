@@ -1,0 +1,7 @@
+/data/ohsung/repos/llm
+/data/ohsung/anaconda3/envs/llm/bin/python
+augi1
+Traceback (most recent call last):
+  File "/data/ohsung/repos/llm/original.py", line 56, in <module>
+    rewrite_prompt = rewrite_promts[0]
+NameError: name 'rewrite_promts' is not defined

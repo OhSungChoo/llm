@@ -1,0 +1,17 @@
+/data/ohsung/repos/llm
+/data/ohsung/anaconda3/envs/llm/bin/python
+augi1
+[['<p>Looks really helpful ... </p>' "Explain this to me like I'm five."
+  'Sure, here\'s the explanation:\n\nImagine you\'re trying to build a tower of blocks. It\'s really helpful to have a lot of blocks to choose from, right? That\'s what the text "Looks really helpful..." is saying. It\'s saying that the information or the instructions that were written previously are very helpful and making it easy to complete a task.']
+ ['<p>Might someone downloaded train images 180+ Gb. \nPlease, share if yes.</p>\n\n<p>We can have test images from <a href="/hengck23">@hengck23</a> by this link\n<a href="https://drive.google.com/open?id=16P7OizMu8i7PzRZhNkzk_I4HgwtGOrYM">https://drive.google.com/open?id=16P7OizMu8i7PzRZhNkzk_I4HgwtGOrYM</a>\nas posted in his topic\n<a href="https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/115855">https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/115855</a></p>\n\n<p>now we need the link for train images</p>'
+  "Explain this to me like I'm five."
+  "Sure, here's the explanation:\n\nSomeone might have downloaded a lot of train images, which are pictures that are used to teach computers how to see and understand things. If you're interested, you could ask if they downloaded those images or not.\n\nThere's also a link to a place where you can test images that are similar to the ones that were downloaded. It's a website where you can see a discussion about a challenge that includes those images. In that discussion,"]
+ ["<p>Nice Article, Arjit!\nJust a small point though, lowering the exploration decay rate like .001 would have been provided better results. Not sure why, but was observing inconsistent results when I've chosen higher decay rates.</p>"
+  "Explain this to me like I'm five."
+  "Hey, Arjit! Your article is really nice! It's like a superhero saving the world one line at a time.\n\nThere's just one thing that a little superhero like me might not understand: why lowering the exploration decay rate to .001 would have been better. It's a bit like the superhero's superpower of fading away faster than a speedster.\n\nWhen I've tried to do similar things, I've found that higher decay rates give results"]
+ ['<p>Nope it was actually taking lot of space. So had to remove it from GCP instance. </p>'
+  "Explain this to me like I'm five."
+  "Sure, here's the explanation:\n\nImagine you have a box that holds a bunch of toys. If the box is full, it doesn't have enough space for new toys.\n\nThe same thing happened to a computer server called a GCP instance. There was a lot of data stored on the server that was taking up a lot of space. So, to free up space, the data was removed from the server."]
+ ["<p>But it's fun xd. I saw the .000 before finding out it's on &lt;1% subset. Literally mindblown.</p>"
+  "Explain this to me like I'm five."
+  "Sure, here's how to explain that to a five-year-old:\n\nImagine you're playing a game and you're looking for a small item that's hidden among a bunch of other stuff. The item is really small, like a tiny piece of dust that's the size of a grain of rice.\n\nNow, the challenge is to find the item. It's like finding a needle in a haystack. There's a lot of stuff to look through"]]
