@@ -10,7 +10,7 @@ tokenizer.model
 
 
 
- $ cd /local_datsets/llm
+ $ cd /local_datasets/llm
  
  $ ls
  
